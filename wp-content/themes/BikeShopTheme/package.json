@@ -1,0 +1,15 @@
+{
+  "name": "LWP_Blank_Template",
+  "version": "1.0.0",
+  "dependencies": {
+    "glob": "~3.2.3",
+    "growl": "~1.7.0",
+    "grunt": "^0.4.5",
+    "grunt-contrib-watch": "latest",
+    "grunt-notify": "latest",
+    "grunt-autoprefixer": "^3.0.3",
+    "grunt-combine-media-queries": "^1.0.19",
+    "grunt-contrib-compass": "^1.0.3",
+    "grunt-contrib-uglify": "^0.9.1"
+  }
+}
